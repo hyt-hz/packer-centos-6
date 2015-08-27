@@ -8,5 +8,4 @@
       yum: name=libselinux-python state=installed
 
   roles:
-    - geerlingguy.nfs
-    - geerlingguy.packer-rhel
+    - packer-rhel
